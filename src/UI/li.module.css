@@ -1,0 +1,9 @@
+.li {
+  width: 80vw;
+  min-width: 400px;
+  padding: 5px;
+  border: 1px solid #e5e5e5;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+}
